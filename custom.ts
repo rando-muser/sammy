@@ -1,3 +1,4 @@
+//% color=#fff609 weight=50 icon="\f1b0" block="SAMMY"
 namespace sammy {
     export function say(speech: number[][]) {
         let Formants: number[][]
