@@ -8,8 +8,7 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "assets.json",
-        "custom.ts"
+        "assets.json"
     ],
     "testFiles": [
         "test.ts"
