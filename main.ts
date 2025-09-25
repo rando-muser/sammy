@@ -1,7 +1,7 @@
-//% color=#fff609 weight=50 icon="\f123" block="SAMMY"
+//% color=#fff609 weight=50 icon="\uf089"  block="SAMMY"
 namespace sammy {
     //% block
-    export function say(speech: number[][] = [[1, 100]]) {
+    export function say(speech: number[][] = [[]]) {
         let Formants: number[][]
         Formants = [
             // vowels f1, f2, f3
